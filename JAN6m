@@ -1,35 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="bht1" tvg-name="BHT" tvg-logo="" group-title="BiH",BHT
+#EXTINF:-1 tvg-id="" tvg-name="BIR TV" tvg-logo="" group-title="BiH",BIR TV
+http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96808
+#EXTINF:-1 tvg-id="" tvg-name="BHT HD" tvg-logo="" group-title="BiH",BHT HD
+http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96769
+#EXTINF:-1 tvg-id="" tvg-name="BHT" tvg-logo="" group-title="BiH",BHT
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96770
-#EXTINF:-1 tvg-id="ftv" tvg-name="FTV" tvg-logo="" group-title="BiH",FTV
+#EXTINF:-1 tvg-id="" tvg-name="FTV" tvg-logo="" group-title="BiH",FTV
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96771
-#EXTINF:-1 tvg-id="hayat" tvg-name="HAYAT BIH" tvg-logo="" group-title="BiH",HAYAT BIH
+#EXTINF:-1 tvg-id="" tvg-name="HAYAT HD" tvg-logo="" group-title="BiH",HAYAT HD
+http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96772
+#EXTINF:-1 tvg-id="" tvg-name="HAYAT BIH" tvg-logo="" group-title="BiH",HAYAT BIH
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96773
-#EXTINF:-1 tvg-id="hayatplus" tvg-name="HAYAT PLUS" tvg-logo="" group-title="BiH",HAYAT PLUS
+#EXTINF:-1 tvg-id="" tvg-name="HAYAT PLUS" tvg-logo="" group-title="BiH",HAYAT PLUS
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96774
-#EXTINF:-1 tvg-id="novabh" tvg-name="NOVA BH HD" tvg-logo="" group-title="BiH",NOVA BH HD
+#EXTINF:-1 tvg-id="" tvg-name="NOVA BH HD" tvg-logo="" group-title="BiH",NOVA BH HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96775
-#EXTINF:-1 tvg-id="novabh" tvg-name="NOVA BH" tvg-logo="" group-title="BiH",NOVA BH
+#EXTINF:-1 tvg-id="" tvg-name="NOVA BH" tvg-logo="" group-title="BiH",NOVA BH
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96776
-#EXTINF:-1 tvg-id="facetv" tvg-name="FACE TV HD" tvg-logo="" group-title="BiH",FACE TV HD
+#EXTINF:-1 tvg-id="" tvg-name="FACE TV HD" tvg-logo="" group-title="BiH",FACE TV HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96777
-#EXTINF:-1 tvg-id="face" tvg-name="FACE TV" tvg-logo="" group-title="BiH",FACE TV
+#EXTINF:-1 tvg-id="" tvg-name="FACE TV" tvg-logo="" group-title="BiH",FACE TV
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96778
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="AL JAZEERA BALKAN HD" tvg-logo="" group-title="BiH",AL JAZEERA BALKAN HD
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA BALKAN HD" tvg-logo="" group-title="BiH",AL JAZEERA BALKAN HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96779
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="AL JAZEERA BALKAN" tvg-logo="" group-title="BiH",AL JAZEERA BALKAN
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA BALKAN" tvg-logo="" group-title="BiH",AL JAZEERA BALKAN
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96780
-#EXTINF:-1 tvg-id="obn" tvg-name="OBN" tvg-logo="" group-title="BiH",OBN
+#EXTINF:-1 tvg-id="" tvg-name="OBN" tvg-logo="" group-title="BiH",OBN
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96782
-#EXTINF:-1 tvg-id="bnsat.a" tvg-name="BN BIH" tvg-logo="" group-title="BiH",BN BIH
+#EXTINF:-1 tvg-id="" tvg-name="N1 BOSNA" tvg-logo="" group-title="BiH",N1 BOSNA
+http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96783
+#EXTINF:-1 tvg-id="" tvg-name="BN BIH" tvg-logo="" group-title="BiH",BN BIH
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96784
-#EXTINF:-1 tvg-id="bnsat.a" tvg-name="BN SAT HD" tvg-logo="" group-title="BiH",BN SAT HD
+#EXTINF:-1 tvg-id="" tvg-name="BN SAT HD" tvg-logo="" group-title="BiH",BN SAT HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96785
 #EXTINF:-1 tvg-id="" tvg-name="RTRS PLUS" tvg-logo="" group-title="BiH",RTRS PLUS
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96786
 #EXTINF:-1 tvg-id="" tvg-name="RTRS" tvg-logo="" group-title="BiH",RTRS
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96787
-#EXTINF:-1 tvg-id="alternativnatv" tvg-name="ALTERNATIVNA TV" tvg-logo="" group-title="BiH",ALTERNATIVNA TV
+#EXTINF:-1 tvg-id="" tvg-name="ALTERNATIVNA TV" tvg-logo="" group-title="BiH",ALTERNATIVNA TV
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96788
 #EXTINF:-1 tvg-id="" tvg-name="TV ZENICA" tvg-logo="" group-title="BiH",TV ZENICA
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96789
@@ -69,8 +77,8 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96805
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96806
 #EXTINF:-1 tvg-id="" tvg-name="ALFA TV SARAJEVO" tvg-logo="" group-title="BiH",ALFA TV SARAJEVO
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96807
-#EXTINF:-1 tvg-id="" tvg-name="BIR TV" tvg-logo="" group-title="BiH",BIR TV
-http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96808
+#EXTINF:-1 tvg-id="" tvg-name="TV Hram" tvg-logo="" group-title="Srbija",TV Hram
+http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/68043
 #EXTINF:-1 tvg-id="rts 1 HD" tvg-name="RTS 1 FHD" tvg-logo="" group-title="Srbija",RTS 1 FHD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/97091
 #EXTINF:-1 tvg-id="rts 1 HD" tvg-name="RTS 1" tvg-logo="" group-title="Srbija",RTS 1
@@ -155,8 +163,6 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/68040
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/68041
 #EXTINF:-1 tvg-id="" tvg-name="TV Duga Plus" tvg-logo="" group-title="Srbija",TV Duga Plus
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/68042
-#EXTINF:-1 tvg-id="" tvg-name="TV Hram" tvg-logo="" group-title="Srbija",TV Hram
-http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/68043
 #EXTINF:-1 tvg-id="HRT1" tvg-name="HRT 1" tvg-logo="" group-title="Hrvatska",HRT 1
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96810
 #EXTINF:-1 tvg-id="HRT1" tvg-name="HRT 1 HD" tvg-logo="" group-title="Hrvatska",HRT 1 HD
@@ -205,15 +211,27 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96831
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96832
 #EXTINF:-1 tvg-id="" tvg-name="LAUDATO TV" tvg-logo="" group-title="Hrvatska",LAUDATO TV
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96833
-#EXTINF:-1 tvg-id="" tvg-name="===== EXYU SPORTS =====	" tvg-logo="" group-title="Sportski",===== EXYU SPORTS =====	
-http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79769
-#EXTINF:-1 tvg-id="SK" tvg-name="SPORTKLUB HD" tvg-logo="" group-title="Sportski",SPORTKLUB HD
+#EXTINF:-1 tvg-id="" tvg-name="|EXYU| SOS |SRB|" tvg-logo="" group-title="Sportski",|EXYU| SOS |SRB|
+http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/192151
+#EXTINF:-1 tvg-id="" tvg-name="|EXYU| TV PARTIZAN HD |SRB|" tvg-logo="" group-title="Sportski",|EXYU| TV PARTIZAN HD |SRB|
+http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/192152
+#EXTINF:-1 tvg-id="" tvg-name="|EXYU| HNTV |HR|" tvg-logo="" group-title="Sportski",|EXYU| HNTV |HR|
+http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/192153
+#EXTINF:-1 tvg-id="" tvg-name="|EXYU| SPORTSKA TV |HR|" tvg-logo="" group-title="Sportski",|EXYU| SPORTSKA TV |HR|
+http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/192154
+#EXTINF:-1 tvg-id="" tvg-name="|EXYU| MOJA TV |BH|" tvg-logo="" group-title="Sportski",|EXYU| MOJA TV |BH|
+http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/192155
+#EXTINF:-1 tvg-id="" tvg-name="|EXYU| CITY TV |BH|" tvg-logo="" group-title="Sportski",|EXYU| CITY TV |BH|
+http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/192156
+#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORT" tvg-logo="" group-title="Sportski",NOVA SPORT
+http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/192157
+#EXTINF:-1 tvg-id="" tvg-name="SPORTKLUB HD" tvg-logo="" group-title="Sportski",SPORTKLUB HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79770
-#EXTINF:-1 tvg-id="SK1RS" tvg-name="SPORTKLUB 1 HKURD (SR)" tvg-logo="" group-title="Sportski",SPORTKLUB 1 HKURD (SR)
+#EXTINF:-1 tvg-id="" tvg-name="SPORTKLUB 1 HKURD: (SR)" tvg-logo="" group-title="Sportski",SPORTKLUB 1 HKURD: (SR)
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79771
-#EXTINF:-1 tvg-id="SK2RS" tvg-name="SPORTKLUB 2 HKURD (SR)" tvg-logo="" group-title="Sportski",SPORTKLUB 2 HKURD (SR)
+#EXTINF:-1 tvg-id="" tvg-name="SPORTKLUB 2 HKURD: (SR)" tvg-logo="" group-title="Sportski",SPORTKLUB 2 HKURD: (SR)
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79772
-#EXTINF:-1 tvg-id="SK3RS" tvg-name="SPORTKLUB 3 HKURD (SR)" tvg-logo="" group-title="Sportski",SPORTKLUB 3 HKURD (SR)
+#EXTINF:-1 tvg-id="" tvg-name="SPORTKLUB 3 HKURD: (SR)" tvg-logo="" group-title="Sportski",SPORTKLUB 3 HKURD: (SR)
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79773
 #EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 1(HR)" tvg-logo="" group-title="Sportski",SPORT KLUB 1(HR)
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79774
@@ -235,26 +253,42 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79781
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79782
 #EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 10 (HR)" tvg-logo="" group-title="Sportski",SPORT KLUB 10 (HR)
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79783
+#EXTINF:-1 tvg-id="" tvg-name="ARENA PREMIUM 1" tvg-logo="" group-title="Sportski",ARENA PREMIUM 1
+http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/192158
+#EXTINF:-1 tvg-id="" tvg-name="ARENA PREMIUM 2" tvg-logo="" group-title="Sportski",ARENA PREMIUM 2
+http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/192159
+#EXTINF:-1 tvg-id="" tvg-name="ARENA PREMIUM 3" tvg-logo="" group-title="Sportski",ARENA PREMIUM 3
+http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/192160
 #EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 BIH" tvg-logo="" group-title="Sportski",ARENA SPORT 1 BIH
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79784
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 HKURD (SR)" tvg-logo="" group-title="Sportski",ARENA SPORT 1 HKURD (SR)
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 HKURD: (SR)" tvg-logo="" group-title="Sportski",ARENA SPORT 1 HKURD: (SR)
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79785
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 HKURD (SR)" tvg-logo="" group-title="Sportski",ARENA SPORT 2 HKURD (SR)
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 HKURD: (SR)" tvg-logo="" group-title="Sportski",ARENA SPORT 2 HKURD: (SR)
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79786
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 HKURD (SR)" tvg-logo="" group-title="Sportski",ARENA SPORT 3 HKURD (SR)
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 HKURD: (SR)" tvg-logo="" group-title="Sportski",ARENA SPORT 3 HKURD: (SR)
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79787
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 HKURD (SR)" tvg-logo="" group-title="Sportski",ARENA SPORT 4 HKURD (SR)
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 HKURD: (SR)" tvg-logo="" group-title="Sportski",ARENA SPORT 4 HKURD: (SR)
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79788
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 HKURD (HR)" tvg-logo="" group-title="Sportski",ARENA SPORT 1 HKURD (HR)
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 HKURD: (HR)" tvg-logo="" group-title="Sportski",ARENA SPORT 1 HKURD: (HR)
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79789
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 HKURD (HR)" tvg-logo="" group-title="Sportski",ARENA SPORT 2 HKURD (HR)
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 HKURD: (HR)" tvg-logo="" group-title="Sportski",ARENA SPORT 1 HKURD: (HR)
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79790
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 HKURD (HR)" tvg-logo="" group-title="Sportski",ARENA SPORT 3 HKURD (HR)
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 HKURD: (HR)" tvg-logo="" group-title="Sportski",ARENA SPORT 3 HKURD: (HR)
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79791
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 HKURD (HR)" tvg-logo="" group-title="Sportski",ARENA SPORT 4 HKURD (HR)
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 HKURD: (HR)" tvg-logo="" group-title="Sportski",ARENA SPORT 4 HKURD: (HR)
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79792
-#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 5 HKURD (HR)" tvg-logo="" group-title="Sportski",ARENA SPORT 5 HKURD (HR)
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 5 HKURD: (HR)" tvg-logo="" group-title="Sportski",ARENA SPORT 5 HKURD: (HR)
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79793
+#EXTINF:-1 tvg-id="" tvg-name="|EXYU| ARENA SPORT 6 HD |HR|" tvg-logo="" group-title="Sportski",|EXYU| ARENA SPORT 6 HD |HR|
+http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/192161
+#EXTINF:-1 tvg-id="" tvg-name="|EXYU| ARENA SPORT 7 HD |HR|" tvg-logo="" group-title="Sportski",|EXYU| ARENA SPORT 7 HD |HR|
+http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/192162
+#EXTINF:-1 tvg-id="" tvg-name="|EXYU| ARENA SPORT 8 HD |HR|" tvg-logo="" group-title="Sportski",|EXYU| ARENA SPORT 8 HD |HR|
+http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/192163
+#EXTINF:-1 tvg-id="" tvg-name="|EXYU| ARENA SPORT 9 HD |HR|" tvg-logo="" group-title="Sportski",|EXYU| ARENA SPORT 9 HD |HR|
+http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/192164
+#EXTINF:-1 tvg-id="" tvg-name="|EXYU| ARENA SPORT 10 HD |HR|" tvg-logo="" group-title="Sportski",|EXYU| ARENA SPORT 10 HD |HR|
+http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/192165
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="Sportski",EUROSPORT 1 HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79794
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="" group-title="Sportski",EUROSPORT 2 HD
@@ -263,12 +297,6 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79795
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79796
 #EXTINF:-1 tvg-id="" tvg-name="FIGHTBOX" tvg-logo="" group-title="Sportski",FIGHTBOX
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79797
-#EXTINF:-1 tvg-id="" tvg-name="PLANETSPORT 1" tvg-logo="" group-title="Sportski",PLANETSPORT 1
-http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79798
-#EXTINF:-1 tvg-id="" tvg-name="PLANETSPORT 2" tvg-logo="" group-title="Sportski",PLANETSPORT 2
-http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79799
-#EXTINF:-1 tvg-id="" tvg-name="PLANETSPORT 3" tvg-logo="" group-title="Sportski",PLANETSPORT 3
-http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/79800
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="Filmski",HBO HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96877
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="" group-title="Filmski",HBO 2 HD
@@ -1123,9 +1151,9 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126950
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126951
 #EXTINF:-1 tvg-id="" tvg-name="|FR| OL TV FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/" group-title="Francuska",|FR| OL TV FHD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126952
-#EXTINF:-1 tvg-id="" tvg-name="|FR| FOOT+ 24/24 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/FOOT+_24_24.png" group-title="Francuska",|FR| FOOT+ 24/24 FHD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FOOT  24/24 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/FOOT _24_24.png" group-title="Francuska",|FR| FOOT  24/24 FHD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126953
-#EXTINF:-1 tvg-id="" tvg-name="|FR| INFOSPORT+ FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/INFOSPORT+.png" group-title="Francuska",|FR| INFOSPORT+ FHD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| INFOSPORT  FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/INFOSPORT .png" group-title="Francuska",|FR| INFOSPORT  FHD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126954
 #EXTINF:-1 tvg-id="" tvg-name="|FR| L EQUIPE FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/L_EQUIPE.png" group-title="Francuska",|FR| L EQUIPE FHD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126955
@@ -1137,7 +1165,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126957
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126958
 #EXTINF:-1 tvg-id="" tvg-name="|FR| AUTOMOTO FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/AUTOMOTO_la_chaine.png" group-title="Francuska",|FR| AUTOMOTO FHD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126959
-#EXTINF:-1 tvg-id="" tvg-name="|FR| GOLF+ FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/GOLF+.png" group-title="Francuska",|FR| GOLF+ FHD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| GOLF  FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/GOLF .png" group-title="Francuska",|FR| GOLF  FHD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126960
 #EXTINF:-1 tvg-id="" tvg-name="|FR| ES1 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/ES1.png" group-title="Francuska",|FR| ES1 FHD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126961
@@ -1195,9 +1223,9 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126987
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126988
 #EXTINF:-1 tvg-id="" tvg-name="|FR| MULTI SPORTS 6 HEVC" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/MULTISPORTS_6.png" group-title="Francuska",|FR| MULTI SPORTS 6 HEVC
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126989
-#EXTINF:-1 tvg-id="" tvg-name="|FR| FOOT+ 24/24 HEVC" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/FOOT+_24_24.png" group-title="Francuska",|FR| FOOT+ 24/24 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FOOT  24/24 HEVC" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/FOOT _24_24.png" group-title="Francuska",|FR| FOOT  24/24 HEVC
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126990
-#EXTINF:-1 tvg-id="" tvg-name="|FR| INFOSPORT+ HEVC" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/INFOSPORT+.png" group-title="Francuska",|FR| INFOSPORT+ HEVC
+#EXTINF:-1 tvg-id="" tvg-name="|FR| INFOSPORT  HEVC" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/INFOSPORT .png" group-title="Francuska",|FR| INFOSPORT  HEVC
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126991
 #EXTINF:-1 tvg-id="" tvg-name="|FR| L EQUIPE 21 HEVC" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/L_EQUIPE.png" group-title="Francuska",|FR| L EQUIPE 21 HEVC
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126992
@@ -1209,7 +1237,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126994
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126995
 #EXTINF:-1 tvg-id="" tvg-name="|FR| AUTOMOTO HEVC" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/AUTOMOTO_la_chaine.png" group-title="Francuska",|FR| AUTOMOTO HEVC
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126996
-#EXTINF:-1 tvg-id="" tvg-name="|FR| GOLF+ HEVC" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/GOLF+.png" group-title="Francuska",|FR| GOLF+ HEVC
+#EXTINF:-1 tvg-id="" tvg-name="|FR| GOLF  HEVC" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/GOLF .png" group-title="Francuska",|FR| GOLF  HEVC
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126997
 #EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LEAGUE 1 HD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/ligue1logo.png" group-title="Francuska",|FR| AMAZON PRIME LEAGUE 1 HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/141641
@@ -1285,9 +1313,9 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/127025
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/127026
 #EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 2 SD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/EUROSPORT_2.png" group-title="Francuska",|FR| EUROSPORT 2 SD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/127027
-#EXTINF:-1 tvg-id="" tvg-name="|FR| FOOT+ 24/24 SD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/FOOT+_24_24.png" group-title="Francuska",|FR| FOOT+ 24/24 SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FOOT  24/24 SD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/FOOT _24_24.png" group-title="Francuska",|FR| FOOT  24/24 SD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/127028
-#EXTINF:-1 tvg-id="" tvg-name="|FR| INFOSPORT+ SD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/INFOSPORT+.png" group-title="Francuska",|FR| INFOSPORT+ SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| INFOSPORT  SD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/INFOSPORT .png" group-title="Francuska",|FR| INFOSPORT  SD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/127029
 #EXTINF:-1 tvg-id="" tvg-name="|FR| L EQUIPE 21 SD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/L_EQUIPE.png" group-title="Francuska",|FR| L EQUIPE 21 SD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/127030
@@ -1295,7 +1323,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/127030
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/127031
 #EXTINF:-1 tvg-id="" tvg-name="|FR| AUTOMOTO SD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/AUTOMOTO_la_chaine.png" group-title="Francuska",|FR| AUTOMOTO SD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/127032
-#EXTINF:-1 tvg-id="" tvg-name="|FR| GOLF+ SD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/GOLF+.png" group-title="Francuska",|FR| GOLF+ SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| GOLF  SD" tvg-logo="http://www.vodkom.com:25461/Logo/FRANCE_SPORT/GOLF .png" group-title="Francuska",|FR| GOLF  SD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/127033
 #EXTINF:-1 tvg-id="" tvg-name="|FR| AMAZON PRIME LEAGUE 1 SD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/ligue1logo.png" group-title="Francuska",|FR| AMAZON PRIME LEAGUE 1 SD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/141649
@@ -1317,69 +1345,69 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/141656
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/141657
 #EXTINF:-1 tvg-id="" tvg-name="-----| MY CANAL FRANCE FHD |-----" tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-fr.png" group-title="Francuska",-----| MY CANAL FRANCE FHD |-----
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126808
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2261_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL+ FHD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2261_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL  FHD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126809
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ CINEMA FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2263_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL+ CINEMA FHD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  CINEMA FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2263_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL  CINEMA FHD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126810
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ DECALE FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2262_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL+ DECALE FHD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  DECALE FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2262_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL  DECALE FHD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126811
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ FAMILY FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2265_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL+ FAMILY FHD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  FAMILY FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2265_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL  FAMILY FHD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126812
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SERIES FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2266_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL+ SERIES FHD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  SERIES FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2266_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL  SERIES FHD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126813
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SPORT FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2264_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL+ SPORT FHD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  SPORT FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2264_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL  SPORT FHD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126814
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ TOP14 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-Top14.png" group-title="Francuska",|FR| CANAL+ TOP14 FHD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  TOP14 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-Top14.png" group-title="Francuska",|FR| CANAL  TOP14 FHD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126815
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ PREMIER LEAGUE FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-Premier-ligue.png" group-title="Francuska",|FR| CANAL+ PREMIER LEAGUE FHD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  PREMIER LEAGUE FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-Premier-ligue.png" group-title="Francuska",|FR| CANAL  PREMIER LEAGUE FHD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126816
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIGUE1 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-ligue-1.png" group-title="Francuska",|FR| CANAL+ LIGUE1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  LIGUE1 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-ligue-1.png" group-title="Francuska",|FR| CANAL  LIGUE1 FHD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126817
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ FORMULA1 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-Formula1.png" group-title="Francuska",|FR| CANAL+ FORMULA1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  FORMULA1 FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-Formula1.png" group-title="Francuska",|FR| CANAL  FORMULA1 FHD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126818
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ MOTOGP FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-motoGP.png" group-title="Francuska",|FR| CANAL+ MOTOGP FHD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  MOTOGP FHD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-motoGP.png" group-title="Francuska",|FR| CANAL  MOTOGP FHD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126819
 #EXTINF:-1 tvg-id="" tvg-name="-----| MY CANAL FRANCE HEVC |-----" tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-fr.png" group-title="Francuska",-----| MY CANAL FRANCE HEVC |-----
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126820
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2261_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL+ HEVC
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2261_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL  HEVC
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126821
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ CINEMA HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2263_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL+ CINEMA HEVC
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  CINEMA HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2263_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL  CINEMA HEVC
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126822
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ DECALE HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2262_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL+ DECALE HEVC
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  DECALE HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2262_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL  DECALE HEVC
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126823
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ FAMILY HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2265_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL+ FAMILY HEVC
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  FAMILY HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2265_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL  FAMILY HEVC
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126824
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SERIES HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2266_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL+ SERIES HEVC
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  SERIES HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2266_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL  SERIES HEVC
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126825
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+  SPORT HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2264_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL+  SPORT HEVC
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL   SPORT HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2264_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL   SPORT HEVC
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126826
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ TOP14 HEVC" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-Top14.png" group-title="Francuska",|FR| CANAL+ TOP14 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  TOP14 HEVC" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-Top14.png" group-title="Francuska",|FR| CANAL  TOP14 HEVC
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126827
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ PREMIER LEAGUE HEVC" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-Premier-ligue.png" group-title="Francuska",|FR| CANAL+ PREMIER LEAGUE HEVC
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  PREMIER LEAGUE HEVC" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-Premier-ligue.png" group-title="Francuska",|FR| CANAL  PREMIER LEAGUE HEVC
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126828
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIGUE 1 HEVC" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-ligue-1.png" group-title="Francuska",|FR| CANAL+ LIGUE 1 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  LIGUE 1 HEVC" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-ligue-1.png" group-title="Francuska",|FR| CANAL  LIGUE 1 HEVC
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126829
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ FORMULE1 HEVC" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-Formula1.png" group-title="Francuska",|FR| CANAL+ FORMULE1 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  FORMULE1 HEVC" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-Formula1.png" group-title="Francuska",|FR| CANAL  FORMULE1 HEVC
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126830
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ MOTOGP HEVC" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-motoGP.png" group-title="Francuska",|FR| CANAL+ MOTOGP HEVC
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  MOTOGP HEVC" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-motoGP.png" group-title="Francuska",|FR| CANAL  MOTOGP HEVC
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126831
 #EXTINF:-1 tvg-id="" tvg-name="-----| MY CANAL FRANCE SD |-----" tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-fr.png" group-title="Francuska",-----| MY CANAL FRANCE SD |-----
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126832
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+  SD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2261_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL+  SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL   SD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2261_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL   SD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126833
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SPORT SD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2264_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL+ SPORT SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  SPORT SD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2264_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL  SPORT SD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126834
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SERIES SD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2266_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL+ SERIES SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  SERIES SD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2266_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL  SERIES SD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126835
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ FAMILY SD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2265_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL+ FAMILY SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  FAMILY SD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2265_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL  FAMILY SD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126836
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ DECALE SD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2262_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL+ DECALE SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  DECALE SD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2262_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL  DECALE SD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126837
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ CINEMA SD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2263_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL+ CINEMA SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  CINEMA SD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2263_438_1_C00000_0_0_0.png" group-title="Francuska",|FR| CANAL  CINEMA SD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126838
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ LIGUE 1 SD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-ligue-1.png" group-title="Francuska",|FR| CANAL+ LIGUE 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  LIGUE 1 SD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-ligue-1.png" group-title="Francuska",|FR| CANAL  LIGUE 1 SD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126839
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ PREMIER LEAGUE SD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-Premier-ligue.png" group-title="Francuska",|FR| CANAL+ PREMIER LEAGUE SD
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL  PREMIER LEAGUE SD" tvg-logo="http://www.vodkom.com:25461/Logo/FRENCH/LOGO/canal-plus-Premier-ligue.png" group-title="Francuska",|FR| CANAL  PREMIER LEAGUE SD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/126840
 #EXTINF:-1 tvg-id="" tvg-name="-----| TNT FRANCE FHD |-----" tvg-logo="http://vodkom.com:25461/Logo/EVENT/1-fr.png" group-title="Francuska",-----| TNT FRANCE FHD |-----
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/127273
@@ -1681,13 +1709,13 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56174
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56175
 #EXTINF:-1 tvg-id="premiumcinemacomedy.it" tvg-name="|IT| SKY CINEMA COMEDY HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/Sky_Cinema_Comedy_HD.png" group-title="Italija",|IT| SKY CINEMA COMEDY HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56176
-#EXTINF:-1 tvg-id="skycinemadueplus24.it" tvg-name="|IT| SKY CINEMA DUE + 24 HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/Sky_Cinema_Due+24HD.png" group-title="Italija",|IT| SKY CINEMA DUE + 24 HD
+#EXTINF:-1 tvg-id="skycinemadueplus24.it" tvg-name="|IT| SKY CINEMA DUE   24 HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/Sky_Cinema_Due 24HD.png" group-title="Italija",|IT| SKY CINEMA DUE   24 HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56177
 #EXTINF:-1 tvg-id="skycinemacollection.it" tvg-name="|IT| SKY CINEMA COLLECTION HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/" group-title="Italija",|IT| SKY CINEMA COLLECTION HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56179
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="|IT| SKY UNO HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/Sky Uno HD.png" group-title="Italija",|IT| SKY UNO HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56180
-#EXTINF:-1 tvg-id="" tvg-name="|IT| SKY UNO  1 HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/Sky_Uno+1" group-title="Italija",|IT| SKY UNO  1 HD
+#EXTINF:-1 tvg-id="" tvg-name="|IT| SKY UNO  1 HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/Sky_Uno 1" group-title="Italija",|IT| SKY UNO  1 HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56181
 #EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="|IT| SKY ATLANTIC HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/Sky_Atlantic_HD.png" group-title="Italija",|IT| SKY ATLANTIC HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56182
@@ -1701,7 +1729,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56185
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56186
 #EXTINF:-1 tvg-id="premiumcinema.it" tvg-name="|IT| PREMIUM CINEMA HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/Premium_Cinema.png" group-title="Italija",|IT| PREMIUM CINEMA HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56187
-#EXTINF:-1 tvg-id="" tvg-name="|IT| PREMIUM CINEMA +24 HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/" group-title="Italija",|IT| PREMIUM CINEMA +24 HD
+#EXTINF:-1 tvg-id="" tvg-name="|IT| PREMIUM CINEMA  24 HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/" group-title="Italija",|IT| PREMIUM CINEMA  24 HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56188
 #EXTINF:-1 tvg-id="premiumcinemacomedy.it" tvg-name="|IT| PREMIUM CINEMA COMEDY HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/" group-title="Italija",|IT| PREMIUM CINEMA COMEDY HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56189
@@ -1815,7 +1843,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56250
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56251
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="|IT| SUPER TENNIS HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/Super_Tennis_HD.png" group-title="Italija",|IT| SUPER TENNIS HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56252
-#EXTINF:-1 tvg-id="raisport.it" tvg-name="|IT| RAI SPORT HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/RaiSport+HD.png" group-title="Italija",|IT| RAI SPORT HD
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="|IT| RAI SPORT HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/RaiSport HD.png" group-title="Italija",|IT| RAI SPORT HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56253
 #EXTINF:-1 tvg-id="motortrend.it" tvg-name="|IT| MOTOR TREND HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/MotorTrendHD.png" group-title="Italija",|IT| MOTOR TREND HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56254
@@ -1869,17 +1897,17 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/143690
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/143691
 #EXTINF:-1 tvg-id="natgeowild.it" tvg-name="|IT| NATIONAL GEO WILD HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/NatGeo_Wild_HD.png" group-title="Italija",|IT| NATIONAL GEO WILD HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/143692
-#EXTINF:-1 tvg-id="natgeowild.it" tvg-name="|IT| NATIONAL GEO +1 HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/NationalGeo+1.png" group-title="Italija",|IT| NATIONAL GEO +1 HD
+#EXTINF:-1 tvg-id="natgeowild.it" tvg-name="|IT| NATIONAL GEO  1 HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/NationalGeo 1.png" group-title="Italija",|IT| NATIONAL GEO  1 HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/143693
 #EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="|IT| DISCOVERY HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/Discovery.png" group-title="Italija",|IT| DISCOVERY HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/143694
-#EXTINF:-1 tvg-id="" tvg-name="|IT| DISCOVERY +1 HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/Discovery+1.png" group-title="Italija",|IT| DISCOVERY +1 HD
+#EXTINF:-1 tvg-id="" tvg-name="|IT| DISCOVERY  1 HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/Discovery 1.png" group-title="Italija",|IT| DISCOVERY  1 HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/143695
 #EXTINF:-1 tvg-id="discoveryscience.it" tvg-name="|IT| DISCOVERY SCI HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/Discovery_Sci_HD.png" group-title="Italija",|IT| DISCOVERY SCI HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/143696
 #EXTINF:-1 tvg-id="historychannel.it" tvg-name="|IT| HISTORY" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/History_HD.png" group-title="Italija",|IT| HISTORY
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/143697
-#EXTINF:-1 tvg-id="" tvg-name="|IT| HISTORY +1" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/History+1.png" group-title="Italija",|IT| HISTORY +1
+#EXTINF:-1 tvg-id="" tvg-name="|IT| HISTORY  1" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/History 1.png" group-title="Italija",|IT| HISTORY  1
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/143698
 #EXTINF:-1 tvg-id="crimeinvestigation.it" tvg-name="|IT| CI CRIME INV. HD" tvg-logo="http://vodkom.com:25461/Logo/ITALIA/CI_CRIME_INV_HD.png" group-title="Italija",|IT| CI CRIME INV. HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/143699
@@ -2005,7 +2033,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56482
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56483
 #EXTINF:-1 tvg-id="" tvg-name="MEZZO" tvg-logo="http://vodkom.com:25461/Logo/NEDERLAND/MezzoHD.png" group-title="Nizozemska",MEZZO
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56484
-#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="100% NL TV" tvg-logo="http://vodkom.com:25461/Logo/NEDERLAND/" group-title="Nizozemska",100% NL TV
+#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="100 L TV" tvg-logo="http://vodkom.com:25461/Logo/NEDERLAND/" group-title="Nizozemska",100 L TV
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56485
 #EXTINF:-1 tvg-id="slam.nl" tvg-name="SLAM! TV" tvg-logo="http://vodkom.com:25461/Logo/NEDERLAND/" group-title="Nizozemska",SLAM! TV
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56486
@@ -2023,7 +2051,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56493
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56494
 #EXTINF:-1 tvg-id="" tvg-name="FILM1 EUROPE HD" tvg-logo="http://vodkom.com:25461/Logo/NEDERLAND/Film_Europe_HD.png" group-title="Nizozemska",FILM1 EUROPE HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56495
-#EXTINF:-1 tvg-id="" tvg-name="FILM1 EUROPE HD INT." tvg-logo="http://vodkom.com:25461/Logo/NEDERLAND/Film_Europe+HD.png" group-title="Nizozemska",FILM1 EUROPE HD INT.
+#EXTINF:-1 tvg-id="" tvg-name="FILM1 EUROPE HD INT." tvg-logo="http://vodkom.com:25461/Logo/NEDERLAND/Film_Europe HD.png" group-title="Nizozemska",FILM1 EUROPE HD INT.
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56496
 #EXTINF:-1 tvg-id="" tvg-name="HBO 1 HD" tvg-logo="http://vodkom.com:25461/Logo/NEDERLAND/HBO_HD.png" group-title="Nizozemska",HBO 1 HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56497
@@ -2165,7 +2193,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56564
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56565
 #EXTINF:-1 tvg-id="" tvg-name="RADIO =====" tvg-logo="" group-title="Nizozemska",RADIO =====
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56571
-#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="100% NL" tvg-logo="http://vodkom.com:25461/Logo/NEDERLAND/" group-title="Nizozemska",100% NL
+#EXTINF:-1 tvg-id="100nltv.nl" tvg-name="100 L" tvg-logo="http://vodkom.com:25461/Logo/NEDERLAND/" group-title="Nizozemska",100 L
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/56572
 #EXTINF:-1 tvg-id="" tvg-name="VLAAMS =====" tvg-logo="http://www.vodkom.com:25461/Logo/FLAGS/BELGIQUEFLAG.png" group-title="Belgija",VLAAMS =====
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/55459
@@ -2319,11 +2347,11 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94473
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94474
 #EXTINF:-1 tvg-id="puls8.ch" tvg-name="PLUS 8 HD" tvg-logo="" group-title="Svicarska",PLUS 8 HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94475
-#EXTINF:-1 tvg-id="3plus.ch" tvg-name="3  HD" tvg-logo="http://vodkom.com:25461/Logo/SWITZERLAND/Kabelio_3+.png" group-title="Svicarska",3  HD
+#EXTINF:-1 tvg-id="3plus.ch" tvg-name="3  HD" tvg-logo="http://vodkom.com:25461/Logo/SWITZERLAND/Kabelio_3 .png" group-title="Svicarska",3  HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94476
-#EXTINF:-1 tvg-id="4plus.ch" tvg-name="4  HD" tvg-logo="http://vodkom.com:25461/Logo/SWITZERLAND/Kabelio_4+.png" group-title="Svicarska",4  HD
+#EXTINF:-1 tvg-id="4plus.ch" tvg-name="4  HD" tvg-logo="http://vodkom.com:25461/Logo/SWITZERLAND/Kabelio_4 .png" group-title="Svicarska",4  HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94477
-#EXTINF:-1 tvg-id="5plus.ch" tvg-name="5  HD" tvg-logo="http://vodkom.com:25461/Logo/SWITZERLAND/Kabelio_5+.png" group-title="Svicarska",5  HD
+#EXTINF:-1 tvg-id="5plus.ch" tvg-name="5  HD" tvg-logo="http://vodkom.com:25461/Logo/SWITZERLAND/Kabelio_5 .png" group-title="Svicarska",5  HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94478
 #EXTINF:-1 tvg-id="tv24.ch" tvg-name="TV 24 HD" tvg-logo="http://vodkom.com:25461/Logo/SWITZERLAND/Kabelio_TV24.png" group-title="Svicarska",TV 24 HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94479
@@ -2363,7 +2391,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94495
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94496
 #EXTINF:-1 tvg-id="" tvg-name="GERMANY =====" tvg-logo="" group-title="Njemacka",GERMANY =====
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/55672
-#EXTINF:-1 tvg-id="" tvg-name="FTA - HD+ =====" tvg-logo="" group-title="Njemacka",FTA - HD+ =====
+#EXTINF:-1 tvg-id="" tvg-name="FTA - HD  =====" tvg-logo="" group-title="Njemacka",FTA - HD  =====
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/55673
 #EXTINF:-1 tvg-id="ard.de" tvg-name="DAS ERSTE HD (ARD)" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_283D_3FB_1_C00000_0_0_0.png" group-title="Njemacka",DAS ERSTE HD (ARD)
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/55674
@@ -2581,7 +2609,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/55768
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/55769
 #EXTINF:-1 tvg-id="comedycentral.de" tvg-name="COMEDY CENTRAL" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_5273_41D_1_C00000_0_0_0.png" group-title="Njemacka",COMEDY CENTRAL
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/55771
-#EXTINF:-1 tvg-id="nickelodeon.de" tvg-name="NICK+ /MTV" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_7008_436_1_C00000_0_0_0.png" group-title="Njemacka",NICK+ /MTV
+#EXTINF:-1 tvg-id="nickelodeon.de" tvg-name="NICK  /MTV" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_7008_436_1_C00000_0_0_0.png" group-title="Njemacka",NICK  /MTV
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/55772
 #EXTINF:-1 tvg-id="" tvg-name="NACHRICHTEN =====" tvg-logo="" group-title="Njemacka",NACHRICHTEN =====
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/55773
@@ -2625,7 +2653,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/55793
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/55794
 #EXTINF:-1 tvg-id="skycinemaplus1.de" tvg-name="SKY CINEMA CLASSIC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_86_B_85_C00000_0_0_0.png" group-title="Njemacka",SKY CINEMA CLASSIC
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/55795
-#EXTINF:-1 tvg-id="skycinemaplus24.de" tvg-name="SKY CINEMA +24 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_87_B_85_C00000_0_0_0.png" group-title="Njemacka",SKY CINEMA +24 HD
+#EXTINF:-1 tvg-id="skycinemaplus24.de" tvg-name="SKY CINEMA  24 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_87_B_85_C00000_0_0_0.png" group-title="Njemacka",SKY CINEMA  24 HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/55796
 #EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="SKY CINEMA ACTION HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_74_9_85_C00000_0_0_0.png" group-title="Njemacka",SKY CINEMA ACTION HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/55797
@@ -2827,7 +2855,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/116418
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/116419
 #EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! ENTERTAINMENT HD" tvg-logo="" group-title="Njemacka",E! ENTERTAINMENT HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/116420
-#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="CRIME+  INVESTIGATION" tvg-logo="" group-title="Njemacka",CRIME+  INVESTIGATION
+#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="CRIME   INVESTIGATION" tvg-logo="" group-title="Njemacka",CRIME   INVESTIGATION
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/116421
 #EXTINF:-1 tvg-id="history.de" tvg-name="HISTORY HD" tvg-logo="" group-title="Njemacka",HISTORY HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/116422
@@ -2903,7 +2931,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/116456
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/116457
 #EXTINF:-1 tvg-id="comedycentral.de" tvg-name="COMEDY CENTRAL HD" tvg-logo="" group-title="Njemacka",COMEDY CENTRAL HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/116458
-#EXTINF:-1 tvg-id="" tvg-name="NICK+ /MTV" tvg-logo="" group-title="Njemacka",NICK+ /MTV
+#EXTINF:-1 tvg-id="" tvg-name="NICK  /MTV" tvg-logo="" group-title="Njemacka",NICK  /MTV
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/116459
 #EXTINF:-1 tvg-id="" tvg-name="=====  NACHRICHTEN  =====" tvg-logo="" group-title="Njemacka",=====  NACHRICHTEN  =====
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/116460
@@ -2935,7 +2963,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/116472
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/116473
 #EXTINF:-1 tvg-id="" tvg-name="=====  KINO HD =====" tvg-logo="" group-title="Njemacka",=====  KINO HD =====
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/116474
-#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="SKY CINEMA PREMIEREN +24" tvg-logo="" group-title="Njemacka",SKY CINEMA PREMIEREN +24
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="SKY CINEMA PREMIEREN  24" tvg-logo="" group-title="Njemacka",SKY CINEMA PREMIEREN  24
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/116475
 #EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA CHRISTMAS HD" tvg-logo="" group-title="Njemacka",SKY CINEMA CHRISTMAS HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/116476
@@ -3003,7 +3031,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94501
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94502
 #EXTINF:-1 tvg-id="orf3.at" tvg-name="ORF 3 HD" tvg-logo="http://vodkom.com:25461/Logo/AUSTRIA/ORF_III_HD.png" group-title="Austrija",ORF 3 HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94503
-#EXTINF:-1 tvg-id="orfsport.at" tvg-name="ORF SPORT  HD" tvg-logo="http://vodkom.com:25461/Logo/AUSTRIA/ORF_SPORT+_HD.png" group-title="Austrija",ORF SPORT  HD
+#EXTINF:-1 tvg-id="orfsport.at" tvg-name="ORF SPORT  HD" tvg-logo="http://vodkom.com:25461/Logo/AUSTRIA/ORF_SPORT _HD.png" group-title="Austrija",ORF SPORT  HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94504
 #EXTINF:-1 tvg-id="puls4.at" tvg-name="PULS 4 HD" tvg-logo="http://vodkom.com:25461/Logo/AUSTRIA/PULS_4_HD_Austria.png" group-title="Austrija",PULS 4 HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94505
@@ -3039,7 +3067,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94519
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94520
 #EXTINF:-1 tvg-id="orf3.at" tvg-name="ORF III HD" tvg-logo="http://vodkom.com:25461/Logo/AUSTRIA/ORF_III_HD.png" group-title="Austrija",ORF III HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94521
-#EXTINF:-1 tvg-id="orfsport.at" tvg-name="ORF SPORT  HD" tvg-logo="http://vodkom.com:25461/Logo/AUSTRIA/ORF_SPORT+_HD.png" group-title="Austrija",ORF SPORT  HD
+#EXTINF:-1 tvg-id="orfsport.at" tvg-name="ORF SPORT  HD" tvg-logo="http://vodkom.com:25461/Logo/AUSTRIA/ORF_SPORT _HD.png" group-title="Austrija",ORF SPORT  HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94522
 #EXTINF:-1 tvg-id="puls4.at" tvg-name="PULS 4 HD Austria" tvg-logo="http://vodkom.com:25461/Logo/AUSTRIA/PULS_4_HD_Austria.png" group-title="Austrija",PULS 4 HD Austria
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94523
@@ -3065,7 +3093,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102136
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102138
 #EXTINF:-1 tvg-id="historychannel.uk" tvg-name="HISTORY" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/HISTORY.png" group-title="UK",HISTORY
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102139
-#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="CRIME&INVESTIGATION" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/CRIME%26INVESTIGATION.png" group-title="UK",CRIME&INVESTIGATION
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="CRIME&INVESTIGATION" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/CRIME&INVESTIGATION.png" group-title="UK",CRIME&INVESTIGATION
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102140
 #EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="ANIMAL PLANET" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/ANIMALPLANET.png" group-title="UK",ANIMAL PLANET
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102141
@@ -3093,7 +3121,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102153
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102154
 #EXTINF:-1 tvg-id="travelchannel.uk" tvg-name="TRAVEL CHANNEL" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/TRAVELCHANNEL.png" group-title="UK",TRAVEL CHANNEL
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102155
-#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="CRIME&INVESTIGATION" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/CRIME%26INVESTIGATION.png" group-title="UK",CRIME&INVESTIGATION
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="CRIME&INVESTIGATION" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/CRIME&INVESTIGATION.png" group-title="UK",CRIME&INVESTIGATION
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102156
 #EXTINF:-1 tvg-id="" tvg-name="SKY NATURE" tvg-logo="" group-title="UK",SKY NATURE
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102157
@@ -3497,7 +3525,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102357
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102358
 #EXTINF:-1 tvg-id="skypremiereplus1.uk" tvg-name="SKY CINEMA PREMIER  1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SKYCINEMAPREMIER1.png" group-title="UK",SKY CINEMA PREMIER  1
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102359
-#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="SKY CINEMA SCI-FI & HORROR" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SKYCINEMASCI-FI%26HORROR.png" group-title="UK",SKY CINEMA SCI-FI & HORROR
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="SKY CINEMA SCI-FI & HORROR" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SKYCINEMASCI-FI&HORROR.png" group-title="UK",SKY CINEMA SCI-FI & HORROR
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102360
 #EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA SUPERHEROES" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SKYCINEMASUPERHEROES.png" group-title="UK",SKY CINEMA SUPERHEROES
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102361
@@ -3535,7 +3563,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102376
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102377
 #EXTINF:-1 tvg-id="skypremiereplus1.uk" tvg-name="SKY CINEMA PREMIER  1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SKYCINEMAPREMIER1.png" group-title="UK",SKY CINEMA PREMIER  1
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102378
-#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="SKY CINEMA SCI-FI & HORROR" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SKYCINEMASCI-FI%26HORROR.png" group-title="UK",SKY CINEMA SCI-FI & HORROR
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="SKY CINEMA SCI-FI & HORROR" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SKYCINEMASCI-FI&HORROR.png" group-title="UK",SKY CINEMA SCI-FI & HORROR
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102379
 #EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA SUPERHEROES" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/SKYCINEMASUPERHEROES.png" group-title="UK",SKY CINEMA SUPERHEROES
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102380
@@ -3573,7 +3601,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102395
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102396
 #EXTINF:-1 tvg-id="more4.uk" tvg-name="MORE 4" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/MORE4.png" group-title="UK",MORE 4
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102397
-#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/E%21ENTERTAINMENT.png" group-title="UK",E! ENTERTAINMENT
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/E!ENTERTAINMENT.png" group-title="UK",E! ENTERTAINMENT
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102398
 #EXTINF:-1 tvg-id="lifetime.uk" tvg-name="LIFETIME" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/LIFETIME.png" group-title="UK",LIFETIME
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102399
@@ -3617,7 +3645,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102417
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102418
 #EXTINF:-1 tvg-id="drama.uk" tvg-name="DRAMA" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/DRAMA.png" group-title="UK",DRAMA
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102419
-#EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="E! ENTERTAINMENT" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/E%21ENTERTAINMENT.png" group-title="UK",E! ENTERTAINMENT
+#EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="E! ENTERTAINMENT" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/E!ENTERTAINMENT.png" group-title="UK",E! ENTERTAINMENT
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102420
 #EXTINF:-1 tvg-id="e4.uk" tvg-name="E4" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/E4.png" group-title="UK",E4
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102421
@@ -3651,7 +3679,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102434
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102435
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/UNIVERSALCHANNEL.png" group-title="UK",UNIVERSAL CHANNEL
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102436
-#EXTINF:-1 tvg-id="" tvg-name="UTV ONE +1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/UTVONE1.png" group-title="UK",UTV ONE +1
+#EXTINF:-1 tvg-id="" tvg-name="UTV ONE  1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/UTVONE1.png" group-title="UK",UTV ONE  1
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102437
 #EXTINF:-1 tvg-id="" tvg-name="UTV ULSTER" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/UTVULSTER.png" group-title="UK",UTV ULSTER
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102438
@@ -3731,7 +3759,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102474
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102475
 #EXTINF:-1 tvg-id="" tvg-name="TINY POP" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/TINYPOP.png" group-title="UK",TINY POP
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102476
-#EXTINF:-1 tvg-id="" tvg-name="TINY POP+1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/TINYPOP1.png" group-title="UK",TINY POP+1
+#EXTINF:-1 tvg-id="" tvg-name="TINY POP 1" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/TINYPOP1.png" group-title="UK",TINY POP 1
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102477
 #EXTINF:-1 tvg-id="" tvg-name="NEWS =====" tvg-logo="" group-title="UK",NEWS =====
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102478
@@ -3901,7 +3929,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102559
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102560
 #EXTINF:-1 tvg-id="" tvg-name="BBC TWO ENGLAND" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBCTWOENGLAND.png" group-title="UK",BBC TWO ENGLAND
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102561
-#EXTINF:-1 tvg-id="" tvg-name="BBC ONE YORKSHIRE & LINCOLNSHIRE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBCONEYORKSHIRE%26LINCOLNSHIRE.png" group-title="UK",BBC ONE YORKSHIRE & LINCOLNSHIRE
+#EXTINF:-1 tvg-id="" tvg-name="BBC ONE YORKSHIRE & LINCOLNSHIRE" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBCONEYORKSHIRE&LINCOLNSHIRE.png" group-title="UK",BBC ONE YORKSHIRE & LINCOLNSHIRE
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102562
 #EXTINF:-1 tvg-id="" tvg-name="BBC ONE YORK" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBCONEYORK.png" group-title="UK",BBC ONE YORK
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102563
@@ -3925,7 +3953,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102571
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102572
 #EXTINF:-1 tvg-id="" tvg-name="BBC ONE NORTH WEST" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBCONENORTHWEST.png" group-title="UK",BBC ONE NORTH WEST
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102573
-#EXTINF:-1 tvg-id="" tvg-name="BBC ONE NORTH EAST & CUMBRIA" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBCONENORTHEAST%26CUMBRIA.png" group-title="UK",BBC ONE NORTH EAST & CUMBRIA
+#EXTINF:-1 tvg-id="" tvg-name="BBC ONE NORTH EAST & CUMBRIA" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBCONENORTHEAST&CUMBRIA.png" group-title="UK",BBC ONE NORTH EAST & CUMBRIA
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102574
 #EXTINF:-1 tvg-id="" tvg-name="BBC ONE LONDON" tvg-logo="http://vodkom.com:25461/Logo/UK/LOGO/BBCONELONDON.png" group-title="UK",BBC ONE LONDON
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/102575
@@ -4139,7 +4167,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/95386
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/95387
 #EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-name="NAT GEO WILD" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/National_Geographic_Wild.png" group-title="Portugal",NAT GEO WILD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/95388
-#EXTINF:-1 tvg-id="crimeinvestigation.pt" tvg-name="CRIME INVESTIGATION" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/Crime+Investigation.png" group-title="Portugal",CRIME INVESTIGATION
+#EXTINF:-1 tvg-id="crimeinvestigation.pt" tvg-name="CRIME INVESTIGATION" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/Crime Investigation.png" group-title="Portugal",CRIME INVESTIGATION
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/95389
 #EXTINF:-1 tvg-id="travelchannel.pt" tvg-name="TRAVEL CHANNEL HD" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/Travel_Channel_HD.png" group-title="Portugal",TRAVEL CHANNEL HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/95390
@@ -4175,7 +4203,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/95404
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/95405
 #EXTINF:-1 tvg-id="toros.pt" tvg-name="TOROS TV" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/Toros_TV.png" group-title="Portugal",TOROS TV
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/95406
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV+.png" group-title="Portugal",SPORT TV
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV .png" group-title="Portugal",SPORT TV
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/95407
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 HD" tvg-logo="http://vodkom.com:25461/Logo/PORTUGAL/SPORT_TV_1_HD.png" group-title="Portugal",SPORT TV 1 HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/95408
@@ -4925,7 +4953,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/99227
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/99228
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 UHD" tvg-logo="" group-title="Turska",BEIN SPORTS 4 UHD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/99229
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BEIN SPORTS 1 HD+" tvg-logo="" group-title="Turska",BEIN SPORTS 1 HD+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="BEIN SPORTS 1 HD " tvg-logo="" group-title="Turska",BEIN SPORTS 1 HD 
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/116315
 #EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 1 HD" tvg-logo="" group-title="Turska",BEIN MAX 1 HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/99230
@@ -4953,7 +4981,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/99240
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/99241
 #EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TRT SPOR HD" tvg-logo="" group-title="Turska",TRT SPOR HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/99242
-#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TRT SPOR 2 HD+" tvg-logo="" group-title="Turska",TRT SPOR 2 HD+
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TRT SPOR 2 HD " tvg-logo="" group-title="Turska",TRT SPOR 2 HD 
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/116316
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR UHD" tvg-logo="" group-title="Turska",TRT SPOR UHD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/99243
@@ -4977,7 +5005,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/99251
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/99253
 #EXTINF:-1 tvg-id="" tvg-name="FIGHT BOX HD" tvg-logo="" group-title="Turska",FIGHT BOX HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/99254
-#EXTINF:-1 tvg-id="trt4k.tr" tvg-name="TRT 4K+" tvg-logo="" group-title="Turska",TRT 4K+
+#EXTINF:-1 tvg-id="trt4k.tr" tvg-name="TRT 4K " tvg-logo="" group-title="Turska",TRT 4K 
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/116227
 #EXTINF:-1 tvg-id="" tvg-name="===== ALBANIA =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="Albanija",===== ALBANIA =====
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/95884
@@ -5369,7 +5397,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96118
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96121
 #EXTINF:-1 tvg-id="" tvg-name="FOLK" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="Albanija",FOLK
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96122
-#EXTINF:-1 tvg-id="" tvg-name="FOLK+" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Folk_Plus.png" group-title="Albanija",FOLK+
+#EXTINF:-1 tvg-id="" tvg-name="FOLK " tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Folk_Plus.png" group-title="Albanija",FOLK 
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96123
 #EXTINF:-1 tvg-id="" tvg-name="===== SUPER SPORTS =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="Albanija",===== SUPER SPORTS =====
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/96124
@@ -5499,15 +5527,15 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94799
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94800
 #EXTINF:-1 tvg-id="" tvg-name="===== PL KINO =====" tvg-logo="" group-title="Poljska",===== PL KINO =====
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94801
-#EXTINF:-1 tvg-id="" tvg-name="CANAL  1 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+1_HD.png" group-title="Poljska",CANAL  1 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  1 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL 1_HD.png" group-title="Poljska",CANAL  1 HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94803
-#EXTINF:-1 tvg-id="" tvg-name="CANAL  FAMILY HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+FAMILY_HD.png" group-title="Poljska",CANAL  FAMILY HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  FAMILY HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL FAMILY_HD.png" group-title="Poljska",CANAL  FAMILY HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94804
-#EXTINF:-1 tvg-id="" tvg-name="CANAL  FILM HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+FILM_HD.png" group-title="Poljska",CANAL  FILM HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  FILM HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL FILM_HD.png" group-title="Poljska",CANAL  FILM HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94805
-#EXTINF:-1 tvg-id="" tvg-name="CANAL  SERIALE HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+SERIALE_HD.png" group-title="Poljska",CANAL  SERIALE HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  SERIALE HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL SERIALE_HD.png" group-title="Poljska",CANAL  SERIALE HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94806
-#EXTINF:-1 tvg-id="" tvg-name="CANAL  NOW" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+NOW.png" group-title="Poljska",CANAL  NOW
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  NOW" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL NOW.png" group-title="Poljska",CANAL  NOW
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94807
 #EXTINF:-1 tvg-id="" tvg-name="CANAL  DISCOVERY HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/" group-title="Poljska",CANAL  DISCOVERY HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94808
@@ -5589,7 +5617,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94845
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94846
 #EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Food Network_HD.png" group-title="Poljska",FOOD NETWORK HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94847
-#EXTINF:-1 tvg-id="" tvg-name="DOMO   HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+DOMO_HD.png" group-title="Poljska",DOMO   HD
+#EXTINF:-1 tvg-id="" tvg-name="DOMO   HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL DOMO_HD.png" group-title="Poljska",DOMO   HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94848
 #EXTINF:-1 tvg-id="" tvg-name="DTX" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/DTX.png" group-title="Poljska",DTX
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94849
@@ -5597,7 +5625,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94849
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94850
 #EXTINF:-1 tvg-id="" tvg-name="FOKUS TV" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Fokus_TV.png" group-title="Poljska",FOKUS TV
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94851
-#EXTINF:-1 tvg-id="" tvg-name="KUCHNIA HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+KUCHNIA.png" group-title="Poljska",KUCHNIA HD
+#EXTINF:-1 tvg-id="" tvg-name="KUCHNIA HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL KUCHNIA.png" group-title="Poljska",KUCHNIA HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94852
 #EXTINF:-1 tvg-id="" tvg-name="MOTOWIZJA TV HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Motowizja_HD.png" group-title="Poljska",MOTOWIZJA TV HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94853
@@ -5645,9 +5673,9 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94873
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94874
 #EXTINF:-1 tvg-id="" tvg-name="NICKTOONS HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Nicktoons_HD.png" group-title="Poljska",NICKTOONS HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94875
-#EXTINF:-1 tvg-id="" tvg-name="TELETOON  HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/teleTOON+HD.png" group-title="Poljska",TELETOON  HD
+#EXTINF:-1 tvg-id="" tvg-name="TELETOON  HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/teleTOON HD.png" group-title="Poljska",TELETOON  HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94876
-#EXTINF:-1 tvg-id="" tvg-name="MINIMINI  HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/MiniMini+HD.png" group-title="Poljska",MINIMINI  HD
+#EXTINF:-1 tvg-id="" tvg-name="MINIMINI  HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/MiniMini HD.png" group-title="Poljska",MINIMINI  HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94877
 #EXTINF:-1 tvg-id="" tvg-name="BBC CBEEBIES" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/BBC CBeebies.png" group-title="Poljska",BBC CBEEBIES
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94878
@@ -5669,7 +5697,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94885
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94886
 #EXTINF:-1 tvg-id="" tvg-name="MTV MUSIC" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/MTV_Music.png" group-title="Poljska",MTV MUSIC
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94887
-#EXTINF:-1 tvg-id="" tvg-name="ALE KINO  HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Ale_kino+HD.png" group-title="Poljska",ALE KINO  HD
+#EXTINF:-1 tvg-id="" tvg-name="ALE KINO  HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Ale_kino HD.png" group-title="Poljska",ALE KINO  HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94888
 #EXTINF:-1 tvg-id="" tvg-name="TO!TV" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/" group-title="Poljska",TO!TV
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94889
@@ -5729,7 +5757,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94915
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94916
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Animal_Planet_HD.png" group-title="Poljska",ANIMAL PLANET HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94917
-#EXTINF:-1 tvg-id="" tvg-name="PLANETE   HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Planete+HD.png" group-title="Poljska",PLANETE   HD
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE   HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Planete HD.png" group-title="Poljska",PLANETE   HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94918
 #EXTINF:-1 tvg-id="" tvg-name="CI POLSAT HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CI_Polsat_HD.png" group-title="Poljska",CI POLSAT HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94919
@@ -5771,7 +5799,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94936
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94937
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEO" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/NATIONAL _GEO_HD.png" group-title="Poljska",NATIONAL GEO
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94938
-#EXTINF:-1 tvg-id="" tvg-name="CRIME AND INVESTIGATION HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Crime+Inv.HD.png" group-title="Poljska",CRIME AND INVESTIGATION HD
+#EXTINF:-1 tvg-id="" tvg-name="CRIME AND INVESTIGATION HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Crime Inv.HD.png" group-title="Poljska",CRIME AND INVESTIGATION HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94939
 #EXTINF:-1 tvg-id="" tvg-name="===== PL SPORT =====" tvg-logo="" group-title="Poljska",===== PL SPORT =====
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94940
@@ -5779,15 +5807,15 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94940
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94941
 #EXTINF:-1 tvg-id="" tvg-name="POLSAT SPORT FIGHT HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Sport_Fight_HD.png" group-title="Poljska",POLSAT SPORT FIGHT HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94942
-#EXTINF:-1 tvg-id="" tvg-name="CANAL  SPORT HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+SPORT_HD.png" group-title="Poljska",CANAL  SPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  SPORT HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL SPORT_HD.png" group-title="Poljska",CANAL  SPORT HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94943
-#EXTINF:-1 tvg-id="" tvg-name="CANAL  SPORT 2 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+SPORT_2_HD.png" group-title="Poljska",CANAL  SPORT 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  SPORT 2 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL SPORT_2_HD.png" group-title="Poljska",CANAL  SPORT 2 HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94944
-#EXTINF:-1 tvg-id="" tvg-name="CANAL  SPORT 3 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+SPORT_3_HD.png" group-title="Poljska",CANAL  SPORT 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  SPORT 3 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL SPORT_3_HD.png" group-title="Poljska",CANAL  SPORT 3 HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94945
-#EXTINF:-1 tvg-id="" tvg-name="CANAL  SPORT 4 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL+SPORT_4_HD.png" group-title="Poljska",CANAL  SPORT 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  SPORT 4 HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/CANAL SPORT_4_HD.png" group-title="Poljska",CANAL  SPORT 4 HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94946
-#EXTINF:-1 tvg-id="" tvg-name="NSPORT" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/nSport+.png" group-title="Poljska",NSPORT
+#EXTINF:-1 tvg-id="" tvg-name="NSPORT" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/nSport .png" group-title="Poljska",NSPORT
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94947
 #EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB HD" tvg-logo="http://www.vodkom.com:25461/Logo/POLONIA/Sportklub_HD.png" group-title="Poljska",SPORT KLUB HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/94948
@@ -6369,7 +6397,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/98098
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/98099
 #EXTINF:-1 tvg-id="" tvg-name="TV 12 HD" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/TV12_HD.png" group-title="Svedska",TV 12 HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/98100
-#EXTINF:-1 tvg-id="" tvg-name="TV MALMÖ" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/" group-title="Svedska",TV MALMÖ
+#EXTINF:-1 tvg-id="" tvg-name="TV MALMO" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/" group-title="Svedska",TV MALMO
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/98101
 #EXTINF:-1 tvg-id="" tvg-name="TV4 FAKTA HD" tvg-logo="http://vodkom.com:25461/Logo/SWEDEN/TV4_Fakta.png" group-title="Svedska",TV4 FAKTA HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/98102
@@ -6647,7 +6675,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/139552
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/139553
 #EXTINF:-1 tvg-id="" tvg-name="VIASPORT 3 NORGE HD" tvg-logo="http://vodkom.com:25461/Logo/NORWAY/V_sport_3_HD.png" group-title="Norveska",VIASPORT 3 NORGE HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/139554
-#EXTINF:-1 tvg-id="" tvg-name="VIASPORT PLUS  HD VIP" tvg-logo="http://vodkom.com:25461/Logo/NORWAY/V_sport_+_HD.png" group-title="Norveska",VIASPORT PLUS  HD VIP
+#EXTINF:-1 tvg-id="" tvg-name="VIASPORT PLUS  HD VIP" tvg-logo="http://vodkom.com:25461/Logo/NORWAY/V_sport_ _HD.png" group-title="Norveska",VIASPORT PLUS  HD VIP
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/139555
 #EXTINF:-1 tvg-id="" tvg-name="TV2 SPORT PREMIUM 2 HD VIP" tvg-logo="http://vodkom.com:25461/Logo/NORWAY/TV_2_Sport_Premium_2_HD.png" group-title="Norveska",TV2 SPORT PREMIUM 2 HD VIP
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/139556
@@ -6851,7 +6879,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/100194
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/100195
 #EXTINF:-1 tvg-id="action24.gr" tvg-name="ACTION 24 HD" tvg-logo="" group-title="Grcka",ACTION 24 HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/100196
-#EXTINF:-1 tvg-id="4ε.gr" tvg-name="4E" tvg-logo="" group-title="Grcka",4E
+#EXTINF:-1 tvg-id="4e.gr" tvg-name="4E" tvg-logo="" group-title="Grcka",4E
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/100197
 #EXTINF:-1 tvg-id="" tvg-name="TV1 SYROS" tvg-logo="" group-title="Grcka",TV1 SYROS
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/100198
@@ -6891,7 +6919,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/100214
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/100215
 #EXTINF:-1 tvg-id="" tvg-name="MACEDONIA HD" tvg-logo="" group-title="Grcka",MACEDONIA HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/100216
-#EXTINF:-1 tvg-id="4ε.gr" tvg-name="4E EKLISIAS" tvg-logo="" group-title="Grcka",4E EKLISIAS
+#EXTINF:-1 tvg-id="4e.gr" tvg-name="4E EKLISIAS" tvg-logo="" group-title="Grcka",4E EKLISIAS
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/100217
 #EXTINF:-1 tvg-id="" tvg-name="===== GR NEWS =====" tvg-logo="" group-title="Grcka",===== GR NEWS =====
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/100218
@@ -7599,7 +7627,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/46285
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/46286
 #EXTINF:-1 tvg-id="" tvg-name="Tochka Otryva" tvg-logo="" group-title="Rusija",Tochka Otryva
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/46287
-#EXTINF:-1 tvg-id="" tvg-name="TOP_80's" tvg-logo="" group-title="Rusija",TOP_80's
+#EXTINF:-1 tvg-id="" tvg-name="TOP_80s" tvg-logo="" group-title="Rusija",TOP_80s
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/46288
 #EXTINF:-1 tvg-id="" tvg-name="TOP_BUDO HD" tvg-logo="" group-title="Rusija",TOP_BUDO HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/46289
@@ -7763,7 +7791,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/78694
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/78695
 #EXTINF:-1 tvg-id="" tvg-name="TV1000 ??????? HD" tvg-logo="" group-title="Rusija",TV1000 ??????? HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/78696
-#EXTINF:-1 tvg-id="" tvg-name="TV1000 РУССКОЕ КИНО" tvg-logo="" group-title="Rusija",TV1000 РУССКОЕ КИНО
+#EXTINF:-1 tvg-id="" tvg-name="TV1000 ??????? ????" tvg-logo="" group-title="Rusija",TV1000 ??????? ????
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/78697
 #EXTINF:-1 tvg-id="" tvg-name="===== ENTERTAINMENT =====" tvg-logo="" group-title="Rusija",===== ENTERTAINMENT =====
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/78698
@@ -7851,7 +7879,7 @@ http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/78738
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/78739
 #EXTINF:-1 tvg-id="" tvg-name="MATCH! GAME HD" tvg-logo="" group-title="Rusija",MATCH! GAME HD
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/78740
-#EXTINF:-1 tvg-id="" tvg-name="***=====USA GENERAL=====***" tvg-logo="" group-title="USA",***=====USA GENERAL=====***
+#EXTINF:-1 tvg-id="" tvg-name="***=====USA GENERAL=====***" tvg-logo="" group-title="USA",=====USA GENERAL=====
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/123153
 #EXTINF:-1 tvg-id="" tvg-name="7NEWS BOSTON" tvg-logo="" group-title="USA",7NEWS BOSTON
 http://esuniptvstream.com:88/OZZHQA7LAXO2S1Z/82QLGMURRVSSXPD/123154
